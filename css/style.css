@@ -52,3 +52,9 @@ img {
 img.lb-image {
     
     padding: 0;
+}
+
+.lb-data {
+    margin-top: 15px;
+    margin-left: 120px;
+}
