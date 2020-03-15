@@ -7,7 +7,7 @@ body.lb-disable-scrolling {
   top: 0;
   left: 0;
   z-index: 9999;
-  background-color: black;
+  background-color: gray;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
   opacity: 0.8;
   display: none;
@@ -159,7 +159,7 @@ body.lb-disable-scrolling {
 .lb-data .lb-details {
   width: 85%;
   float: left;
-  text-align: left;
+  text-align: center;
   line-height: 1.1em;
 }
 
