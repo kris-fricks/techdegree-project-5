@@ -20,7 +20,6 @@ body {
 }
 
 #search {
-    
     height: 30px;
     width: 400px;
     margin-top: 40px;
@@ -42,7 +41,6 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     margin-bottom: 20px;
-    
 }
 
 img {
@@ -50,11 +48,26 @@ img {
 }
 
 img.lb-image {
-    
     padding: 0;
 }
 
 .lb-data {
     margin-top: 15px;
     margin-left: 120px;
+}
+
+/* ------------------------ */
+/* ------Media Query------- */
+/* -------------------------*/
+
+@media (max-width: 500px ) {
+
+    #search {
+        
+    }
+
+   .lb-data {
+        margin-top: 15px;
+        margin-left: 60px;
+    }
 }
