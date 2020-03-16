@@ -61,15 +61,15 @@ img.lb-image {
 /* ------Media Query -------*/
 /* -------------------------*/
 
-@media (min-width: 568px) {
+@media (min-width: 600px) {
     a {
-        margin: unset;
+      margin: unset;
     }
     .gallery {
-        max-width: 1024px;
-        flex-direction: row;
-        justify-content: center;
-        flex-wrap: wrap;
-        margin: auto;
+      max-width: 1024px;
+      flex-direction: row;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin: auto;
     }
 }
