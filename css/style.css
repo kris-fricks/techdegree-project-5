@@ -9,7 +9,6 @@ body {
 }
 
 
-
 /* ------------------------ */
 /* ------Search Box-------- */
 /* -------------------------*/
@@ -62,9 +61,6 @@ img.lb-image {
 
 @media (max-width: 500px ) {
 
-    #search {
-        
-    }
 
    .lb-data {
         margin-top: 15px;
